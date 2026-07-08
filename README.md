@@ -3,7 +3,7 @@
 
 ## 📖 Project Overview
 
-**Atlon** (the acquiring company) has a mature, structured data system, while **Sports Bar** (the acquired startup) has unstructured, inconsistent data. After the acquisition, the challenge is to integrate both companies' data into one unified, scalable analytics platform.
+**Atkilon** (the acquiring company) has a mature, structured data system, while **Sports Bar** (the acquired startup) has unstructured, inconsistent data. After the acquisition, the challenge is to integrate both companies' data into one unified, scalable analytics platform.
 
 This project builds that pipeline from scratch using the **Medallion Architecture** (Bronze → Silver → Gold), producing clean, BI-ready datasets for reporting and natural-language querying.
 
